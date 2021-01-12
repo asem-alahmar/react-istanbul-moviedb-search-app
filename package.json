@@ -1,0 +1,44 @@
+{
+  "name": "istanbul-moviedb-search-app",
+  "version": "0.1.0",
+  "dependencies": {
+    "@popperjs/core": "^2.6.0",
+    "axios": "^0.21.1",
+    "history": "^5.0.0",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.3",
+    "react-dom": "^17.0.1",
+    "react-is": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-script": "^2.0.5",
+    "react-scripts": "^4.0.1",
+    "styled-components": "^5.2.1",
+    "typescript": "^4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not ie <= 11",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
