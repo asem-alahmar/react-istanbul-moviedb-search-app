@@ -4,11 +4,9 @@
   "dependencies": {
     "@babel/core": "^7.0.0",
     "@popperjs/core": "^2.6.0",
-    "@rollup/plugin-babel": "^5.2.2",
     "@types/babel__core": "^7.1.9",
     "axios": "^0.21.1",
     "core-js": "3",
-    "fsevents": "2.3.0",
     "history": "^5.0.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
